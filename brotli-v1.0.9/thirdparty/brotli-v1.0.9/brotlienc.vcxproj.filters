@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="c\enc\backward_references.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\backward_references_hq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\bit_cost.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\block_splitter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\brotli_bit_stream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\cluster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\command.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\compound_dictionary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\compress_fragment.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\compress_fragment_two_pass.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\dictionary_hash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\encode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\encoder_dict.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\entropy_encode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\fast_log.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\histogram.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\literal_cost.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\memory.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\metablock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\static_dict.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="c\enc\utf8_util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A9EBCD27-0223-31A8-A8E8-AF49A7D6C4EF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
